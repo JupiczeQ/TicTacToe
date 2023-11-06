@@ -1,0 +1,5 @@
+Python_version: 3.11.5 or older
+
+Libraries:
+-pip install tk -> (tkinter)
+-pip install pygame
